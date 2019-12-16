@@ -1,0 +1,18 @@
+Assignment 1 User Stories
+1. As a user, I want to have my own account so that other people can identify me and I can have personalised content.
+2. As a user, I want to reset my password when I forget it or want to have a stronger password to secure my account
+3. <log out if needed>
+4. As a user, I want to have different sub-topics (channel) so I can categorise the content
+5. As a user, I want to manage privacy of the channel so I can prevent unauthorised access.
+6. As a user,  I want to see who are in the channel and their status so I know who can see my messages.
+7. As a user, I want to invite other users to the channel so I can work in a team.
+8.  As a user, I want to join/leave a channel so I can choose the content I see.
+9. As a channel owner, I want to make other people an owner so they can help me manage the channel.
+10. As a user, I want to send messages so I can communicate with other users
+11. As a user, I want to edit <and delete> messages so I can correct any mistakes.
+12. As a user, I want to pin messages so that I can emphasise the messages’ importance.
+13. As a user, I want to react to messages so that I can save time from replying and express my feelings easily.
+14. As a user, I want to delete my message so that I can hide my message from other users.
+15. As a user, I want to create a standup so that I can easily find important messages (and more agile)
+16.  As a user, I want to see other users’ profile so I can know who they are (and see their details).
+17. As a user, I want to search messages so that I can easily find what I need.

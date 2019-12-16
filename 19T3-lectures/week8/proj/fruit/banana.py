@@ -1,0 +1,2 @@
+def flavour():
+    return "sweet"

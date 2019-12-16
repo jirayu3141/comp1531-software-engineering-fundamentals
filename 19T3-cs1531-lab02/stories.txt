@@ -1,0 +1,12 @@
+z5125805, z5261828, z5241871, z5281620
+
+
+
+
+1. As a student, I want to be able to select my courses so that I avoid timetable crash
+2. As a student, I want to see different colour for different subjects so I can not get confused 
+3.  As a student, I want to see locations of lectures so I can decided the classes based on that.
+4. As a student, I want to export timetable to an image so I can access on my devices
+5. As a student, I want to be able to drag around classes so I can see the available timing
+6. As a user, I want to see the week that a particular class is on, so I won’t to go to an empty tutorial.
+7. As a user, I want to be able to add custom event so that classes are not crashed with the event.

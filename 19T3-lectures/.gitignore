@@ -1,0 +1,8 @@
+*~
+__pycache__
+*.swp
+*.pyc
+.coverage
+htmlcov
+.hypothesis
+
